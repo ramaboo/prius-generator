@@ -2,7 +2,26 @@
 
 I turned my 2012 Prius C into a 900W 120V AC generator in a weekend for less than $300! This open source guide will show you how you can do it as well!
 
-![](https://github.com/ramaboo/prius-generator/blob/master/images/0001.jpg | width=500)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0001.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0002.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0003.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0004.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0005.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0006.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0007.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0008.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0009.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0010.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0011.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0012.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0013.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0014.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0015.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0016.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0017.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0018.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0019.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0020.jpg)
 
 # Why?
 
