@@ -22,6 +22,9 @@ I turned my 2012 Prius C into a 900W 120V AC generator in a weekend for less tha
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0018.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0019.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0020.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0021.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0022.jpg)
+![](https://github.com/ramaboo/prius-generator/blob/master/images/0023.jpg)
 
 # Why?
 
