@@ -13,6 +13,8 @@ I turned my 2012 Prius C into a 900W 120V AC generator in a weekend for less tha
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0009.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0010.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0011.jpg)
+Anderson Powerpole connectors are a great way to connect and disconnect the inverter and keep it safe from thieves.
+
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0012.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0013.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0014.jpg)
@@ -24,6 +26,8 @@ A 90A switch breaker is used here to protect the 100A fuse built into the 12V sy
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0018.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0019.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0020.jpg)
+This extension cord runs though existing holes in the frame and gives me a convenient place to plug in 120V AC on the outside of the car. This way I can leave the car on but also lock the doors.
+
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0021.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0022.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0023.jpg)
