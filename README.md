@@ -16,6 +16,8 @@ I turned my 2012 Prius C into a 900W 120V AC generator in a weekend for less tha
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0012.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0013.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0014.jpg)
+A 90A switch breaker is used here to protect the 100A fuse built into the 12V system.
+
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0015.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0016.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0017.jpg)
@@ -26,10 +28,14 @@ I turned my 2012 Prius C into a 900W 120V AC generator in a weekend for less tha
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0022.jpg)
 ![](https://github.com/ramaboo/prius-generator/blob/master/images/0023.jpg)
 
+# How it Works
+
+In standby mode the Prius monitors the 12V DC system's overall voltage. When it's powered on the 120V AC inverter lowers the voltage on the 12V side enough that the car thinks the 12V battery needs recharging and transvers voltage from the 144v main battery pack to the 12V system which in turn powers the inverter. Once the 144V battery is drained to it's minimum safe level the car will automatically turn on the internal combustion engine to recharge the high voltage battery pack and the process starts again. In practice this means the car's engine will run for around 10 minutes per hour to keep the inverter running continuously.
+
 # Why?
 
-- Quieter than a conventional generator!
+- Quieter than a conventional generator.
 - Uses substantially less gas.
 - No storage or transperation of gas and oil.
 - No smell.
-- Cheaper!
+- Cheaper.
